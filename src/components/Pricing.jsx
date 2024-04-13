@@ -28,8 +28,8 @@ const Pricing = () => {
         </div>
 
         <Heading
-          tag="Get started with Brainwave"
-          title="Pay once, use forever"
+          tag="Billing is done annually"
+          title="Get started with Dcrypt"
         />
 
         <div className="relative">
@@ -41,9 +41,9 @@ const Pricing = () => {
         <div className="flex justify-center mt-10">
           <a
             className="text-xs font-code font-bold tracking-wider uppercase border-b"
-            href="/pricing"
+            href="mailto:contact@dcrypt.co.in"
           >
-            See the full details
+            For any queries
           </a>
         </div>
       </div>
